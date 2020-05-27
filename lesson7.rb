@@ -1,5 +1,6 @@
 puts "計算を始めます"
 puts "2つの値を入力してください"
+puts "それでは計算を始めます"
 
 a=gets.to_i
 b=gets.to_i
